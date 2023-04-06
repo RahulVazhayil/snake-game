@@ -1,0 +1,12 @@
+h1,h2, .game-canvas{
+    text-align: center;
+}
+
+#game-status{
+    color: rgb(21, 236, 89);
+}
+
+
+#score{
+    color: rgb(216, 182, 11);
+}
